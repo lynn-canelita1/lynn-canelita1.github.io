@@ -1,1 +1,13 @@
-Indice...
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hola!</title>
+    <link rel="stylesheet" href="degradado.css">
+</head>
+<body>
+    <p align="center">HAHAHA HOLA! GRACIAS POR HABER LLEGADO HASTA AQUÍ</p>
+    <a href="codes.html">Inicio...</a>
+</body>
+</html>
